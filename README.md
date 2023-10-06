@@ -2,6 +2,8 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/alibori/laravel-db-size-alerts.svg?style=flat-square)](https://packagist.org/packages/alibori/laravel-db-size-alerts)
 [![Total Downloads](https://img.shields.io/packagist/dt/alibori/laravel-db-size-alerts.svg?style=flat-square)](https://packagist.org/packages/alibori/laravel-db-size-alerts)
+[![run-tests](https://github.com/alibori/laravel-db-size-alerts/actions/workflows/run-tests.yml/badge.svg)](https://github.com/alibori/laravel-db-size-alerts/actions/workflows/run-tests.yml)
+[![PHPStan](https://github.com/alibori/laravel-db-size-alerts/actions/workflows/phpstan.yml/badge.svg)](https://github.com/alibori/laravel-db-size-alerts/actions/workflows/phpstan.yml)
 
 This package allows you to receive alerts about database tables size limits.
 
